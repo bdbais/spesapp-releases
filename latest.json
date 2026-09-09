@@ -6,7 +6,7 @@
     "notes":  "Prima versione per i tester. Firmata con una chiave provvisoria: quando uscira\u0027 quella definitiva Android non potra\u0027 aggiornarla sopra, servira\u0027 disinstallare e reinstallare. Dettagli nel CHANGELOG.",
     "android":  {
                     "url":  "https://github.com/bdbais/spesapp-releases/releases/download/v0.1.0/spesapp-0.1.0.apk",
-                    "sha256":  "23ed071e36530a2ff037e122cd7d0d0bf5672ea8887a2df8f1ee4d37cdc071df",
-                    "sizeBytes":  103792161
+                    "sha256":  "6c72a8a86864d628358fa50fb3df464562d2f08cc577820d4b34103232a5281f",
+                    "sizeBytes":  103808545
                 }
 }
