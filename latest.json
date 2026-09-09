@@ -1,12 +1,12 @@
 {
-    "versionName":  "0.1.0",
-    "versionCode":  1,
+    "versionName":  "0.2.0",
+    "versionCode":  2,
     "releaseDate":  "2026-09-09",
     "mandatory":  false,
-    "notes":  "Prima versione per i tester. Firmata con una chiave provvisoria: quando uscira\u0027 quella definitiva Android non potra\u0027 aggiornarla sopra, servira\u0027 disinstallare e reinstallare. Dettagli nel CHANGELOG.",
+    "notes":  "Dentro lo scontrino: righe con prezzo, pollici e variazione rispetto all\u0027ultimo acquisto. Import dalla galleria. Corretti due difetti che impedivano di leggere gli scontrini veri. Dettagli nel CHANGELOG.",
     "android":  {
-                    "url":  "https://github.com/bdbais/spesapp-releases/releases/download/v0.1.0/spesapp-0.1.0.apk",
-                    "sha256":  "6c72a8a86864d628358fa50fb3df464562d2f08cc577820d4b34103232a5281f",
-                    "sizeBytes":  103808545
+                    "url":  "https://github.com/bdbais/spesapp-releases/releases/download/v0.2.0/spesapp-0.2.0.apk",
+                    "sha256":  "ff6d94a69765c19df43d4a0e7e04f77c299cccca08a68c77d5857efa8daa1513",
+                    "sizeBytes":  104398713
                 }
 }
